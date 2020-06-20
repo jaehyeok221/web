@@ -1,1 +1,6 @@
-# web
+# Web
+## HTML
+
+## CSS
+
+## Javascript
