@@ -36,6 +36,9 @@
 
 ----
 
+[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s)
+
+
 [![트와이스 More & More](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]https://www.youtube.com/watch?v=mH0_XpSHkZo)
 
 ## HTML
